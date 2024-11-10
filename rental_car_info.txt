@@ -1,0 +1,44 @@
+Transaction ID: 1714126632-41
+License Plate: 123
+Brand: w
+Model: ee
+Color: e
+Mileage: 0
+Price per Hour: $0
+Rental Date: 26/04/2024 15:16:53
+Rental Duration: 1 hour(s)
+Total Rent: $0
+================================
+Transaction ID: 1714126652-8467
+License Plate: 123
+Brand: ee
+Model: 123
+Color: e
+Mileage: 0
+Price per Hour: $0
+Rental Date: 26/04/2024 15:16:53
+Rental Duration: 3 hour(s)
+Total Rent: $0
+================================
+Transaction ID: 1714126654-6334
+License Plate: 123
+Brand: e
+Model: 3
+Color: w
+Mileage: 23
+Price per Hour: $3
+Rental Date: 26/04/2024 15:16:53
+Rental Duration: 3 hour(s)
+Total Rent: $9
+================================
+Transaction ID: 1714531108-41
+License Plate: okl1122
+Brand: toyota
+Model: yaris
+Color: red
+Mileage: 12
+Price per Hour: $1222
+Rental Date: 01/05/2024 07:38:14
+Rental Duration: 12 hour(s)
+Total Rent: $14664
+================================
